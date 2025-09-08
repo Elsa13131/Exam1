@@ -1,0 +1,4 @@
+Enoncé : 
+
+Crée une fonction dont la longueur de la chaine de caractère si elle est inferieur a 1, il faut retourné "False". 
+Ensuite definir une fonction annexe et donné son resultat quand elle est entre entre A et Z en minuscule ou majuscule 
